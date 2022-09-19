@@ -47,16 +47,16 @@ def max_marks(list1):
 
 ## Output:
 ### The maximum of marks using the list method sort.
-![output 1](./![output1](https://user-images.githubusercontent.com/113497340/190955180-91d86680-793d-4995-82be-f73f94c47cad.jpeg)
+![output1](https://user-images.githubusercontent.com/113497340/190955180-91d86680-793d-4995-82be-f73f94c47cad.jpeg)
 
 
 ### The maximum marks using the list method max().
-![output2](./![output1](https://user-images.githubusercontent.com/113497340/190955326-3ca51bc3-5975-45d5-9451-32a34b8e9e1f.jpeg)
+![output1](https://user-images.githubusercontent.com/113497340/190955326-3ca51bc3-5975-45d5-9451-32a34b8e9e1f.jpeg)
 
 
 
 ### The maximum marks without using builtin functions.
-![output3](./![output3](https://user-images.githubusercontent.com/113497340/190955292-91102980-ed3e-4a0d-a2e3-6a9925ae00a4.jpeg)
+![output3](https://user-images.githubusercontent.com/113497340/190955292-91102980-ed3e-4a0d-a2e3-6a9925ae00a4.jpeg)
 
 
 ## Result:
